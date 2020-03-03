@@ -1,0 +1,5 @@
+<map id="PowerPellet" name="PowerPellet">
+<area shape="rect" id="node1" title=" " alt="" coords="31,381,144,495"/>
+<area shape="rect" id="node2" href="$class_pac_dot.html" title=" " alt="" coords="36,233,139,333"/>
+<area shape="rect" id="node3" href="$class_game_object.html" title="GameObject is an abstarct class for classes Wall, Dot, Boost, Fruit." alt="" coords="5,5,169,185"/>
+</map>

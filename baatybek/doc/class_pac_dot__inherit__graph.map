@@ -1,0 +1,7 @@
+<map id="PacDot" name="PacDot">
+<area shape="rect" id="node1" title=" " alt="" coords="132,233,235,333"/>
+<area shape="rect" id="node3" href="$class_dot.html" title=" " alt="" coords="5,388,109,501"/>
+<area shape="rect" id="node4" href="$class_fruit.html" title=" " alt="" coords="132,381,235,508"/>
+<area shape="rect" id="node5" href="$class_power_pellet.html" title=" " alt="" coords="259,388,372,501"/>
+<area shape="rect" id="node2" href="$class_game_object.html" title="GameObject is an abstarct class for classes Wall, Dot, Boost, Fruit." alt="" coords="102,5,266,185"/>
+</map>

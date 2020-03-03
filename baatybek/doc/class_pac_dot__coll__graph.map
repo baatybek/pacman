@@ -1,0 +1,4 @@
+<map id="PacDot" name="PacDot">
+<area shape="rect" id="node1" title=" " alt="" coords="36,233,139,333"/>
+<area shape="rect" id="node2" href="$class_game_object.html" title="GameObject is an abstarct class for classes Wall, Dot, Boost, Fruit." alt="" coords="5,5,169,185"/>
+</map>

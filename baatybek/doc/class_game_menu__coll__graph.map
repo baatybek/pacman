@@ -1,0 +1,4 @@
+<map id="GameMenu" name="GameMenu">
+<area shape="rect" id="node1" title="GameMenu class represents menu when the game has already started. it&#39;s called, when user clicked ESC,..." alt="" coords="19,273,138,387"/>
+<area shape="rect" id="node2" href="$class_c_window.html" title="CWindow class handles ncurses window." alt="" coords="5,5,152,212"/>
+</map>

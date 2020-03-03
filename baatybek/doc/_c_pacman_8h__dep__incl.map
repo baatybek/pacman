@@ -1,0 +1,15 @@
+<map id="src/DynamicObjects/CPacman.h" name="src/DynamicObjects/CPacman.h">
+<area shape="rect" id="node1" title=" " alt="" coords="380,5,520,44"/>
+<area shape="rect" id="node2" href="$_c_ghost_8h.html" title=" " alt="" coords="220,92,360,131"/>
+<area shape="rect" id="node4" href="$_c_ghost_easy_8h.html" title=" " alt="" coords="5,179,145,217"/>
+<area shape="rect" id="node6" href="$_c_ghost_manager_8h.html" title=" " alt="" coords="269,265,409,304"/>
+<area shape="rect" id="node8" href="$_game_engine_8h.html" title=" " alt="" coords="480,359,652,384"/>
+<area shape="rect" id="node11" href="$_c_ghost_hard_8h.html" title=" " alt="" coords="433,179,573,217"/>
+<area shape="rect" id="node13" href="$_c_pacman_8cpp.html" title=" " alt="" coords="647,92,787,131"/>
+<area shape="rect" id="node3" href="$_c_ghost_8cpp.html" title=" " alt="" coords="169,179,309,217"/>
+<area shape="rect" id="node5" href="$_c_ghost_easy_8cpp.html" title=" " alt="" coords="5,265,145,304"/>
+<area shape="rect" id="node7" href="$_c_ghost_manager_8cpp.html" title=" " alt="" coords="266,352,413,391"/>
+<area shape="rect" id="node9" href="$_game_engine_8cpp.html" title=" " alt="" coords="390,439,576,464"/>
+<area shape="rect" id="node10" href="$main_8cpp.html" title=" " alt="" coords="600,439,697,464"/>
+<area shape="rect" id="node12" href="$_c_ghost_hard_8cpp.html" title=" " alt="" coords="433,265,573,304"/>
+</map>

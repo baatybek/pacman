@@ -1,0 +1,6 @@
+<map id="CGhost" name="CGhost">
+<area shape="rect" id="node1" title=" " alt="" coords="65,313,217,560"/>
+<area shape="rect" id="node3" href="$class_c_ghost_easy.html" title="CGhostEasy represents easy ghost." alt="" coords="5,621,130,761"/>
+<area shape="rect" id="node4" href="$class_c_ghost_hard.html" title=" " alt="" coords="154,608,277,775"/>
+<area shape="rect" id="node2" href="$class_dynamic_object.html" title="Controls class is an abstact class for moving objects." alt="" coords="71,5,211,265"/>
+</map>

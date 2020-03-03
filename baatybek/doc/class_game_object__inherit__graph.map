@@ -1,0 +1,8 @@
+<map id="GameObject" name="GameObject">
+<area shape="rect" id="node1" title="GameObject is an abstarct class for classes Wall, Dot, Boost, Fruit." alt="" coords="158,5,322,185"/>
+<area shape="rect" id="node2" href="$class_pac_dot.html" title=" " alt="" coords="132,240,235,340"/>
+<area shape="rect" id="node6" href="$class_wall.html" title="Wall class represent static object on the maze which doesnt let pacman or ghosts to pass through them..." alt="" coords="259,233,332,347"/>
+<area shape="rect" id="node3" href="$class_dot.html" title=" " alt="" coords="5,401,109,515"/>
+<area shape="rect" id="node4" href="$class_fruit.html" title=" " alt="" coords="132,395,235,521"/>
+<area shape="rect" id="node5" href="$class_power_pellet.html" title=" " alt="" coords="259,401,372,515"/>
+</map>

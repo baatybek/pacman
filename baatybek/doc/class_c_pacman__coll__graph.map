@@ -1,0 +1,4 @@
+<map id="CPacman" name="CPacman">
+<area shape="rect" id="node1" title="CPacman represents pacman." alt="" coords="8,313,142,547"/>
+<area shape="rect" id="node2" href="$class_dynamic_object.html" title="Controls class is an abstact class for moving objects." alt="" coords="5,5,145,265"/>
+</map>

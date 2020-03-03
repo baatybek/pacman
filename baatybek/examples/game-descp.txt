@@ -1,0 +1,47 @@
+Author: Beksultan Baatyrbekov												
+
+Game: Pacman
+_________________________________________________________________________________________________________________________________________________________________
+
+Pacman : ' > ', ' < ', ' v ', ' ^ '. 
+
+	Pacman is the main character of the game.
+	Pacman moves around the maze and 
+	tries to eat all of the candies ( points (.), power pellets (*) ).
+_________________________________________________________________________________________________________________________________________________________________
+
+Ghosts : 'M'
+	
+	Ghosts are enemies of pacman. Ghosts move around the maze and 
+	try to eat pacman. If pacman has asctivated super power, ghosts
+	can be killed. 
+_________________________________________________________________________________________________________________________________________________________________
+
+Points/Dots : '.' 
+		
+	Pacman tries to eat all of these. If it eats points and boosts, 
+	he wins.
+_________________________________________________________________________________________________________________________________________________________________
+
+Power pellets : '*'
+	
+	Pacman tries to eat all of these. If it eats points and boosts, 
+	he wins.
+_________________________________________________________________________________________________________________________________________________________________
+
+Fruits : 's'
+	
+	Pacman tries to eat all of these. Fruits are bonus, and appear once
+	in a while
+_________________________________________________________________________________________________________________________________________________________________
+
+HOW TO CONTROL THE GAME:
+	
+	pacman controls and menu controls
+
+	'w' - move up 
+	's' - move down
+	'd' - move right
+	'a' - move left
+	ESC - open Menu	
+	ENTER - current option
